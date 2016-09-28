@@ -1,5 +1,3 @@
-elementResizeEvent = require('../index.js');
-
 element = document.getElementById("resize");
 window.p = p = document.getElementById("width");
 console.log(p);

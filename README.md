@@ -1,6 +1,8 @@
 element-resize-event
 ==================
 
+** Support UMD pattern **
+
 Library to make it easy to listen for element resize events
 
 Code borrowed from a [blog post by
